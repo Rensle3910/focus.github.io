@@ -58,7 +58,7 @@ function schet(){
 function check(){
     if(och1>=2000){
         time.innerHTML='Поздравляю, вы победили!'
-        button.src='img/Salut.gif'
+        button.src='img/salut.gif'
         clearInterval(interval)
         clearInterval(interval3)
         start.src='img/yellow_button.png'
